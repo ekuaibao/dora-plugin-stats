@@ -43,7 +43,7 @@ License
 
 (The MIT License)
 
-Copyright (c) 2015 nanyuantingfeng &lt;nanyuantingfeng@aliyun.com&gt;
+Copyright (c) 2017 ekuaibao http://www.ekuaibao.com
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
